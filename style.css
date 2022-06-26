@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: black;
+    margin-top: 2%;
+    
+}
+
+body h1{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+@media (max-width: 620px) {
+    #snake{
+        width: 400px;
+    }
+
+
+}
